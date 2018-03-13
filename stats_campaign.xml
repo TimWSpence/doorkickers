@@ -1,0 +1,10 @@
+<Campaigns>
+    <Campaign name="data/campaigns/campaign1.xml">
+        <BestResult elapsedTimeMSec="441184" missionsTotal="6" missionsCompleted="6" missionStars="18" bonusStars="20" casualties="0" hostilesTotal="69" hostilesPacified="69" xp="2135410" ironMan="0"/>
+    </Campaign>
+    <Campaign name="data/campaigns/campaign6.xml">
+        <BestResult elapsedTimeMSec="505008" missionsTotal="6" missionsCompleted="6" missionStars="18" bonusStars="40" casualties="0" hostilesTotal="72" hostilesPacified="72" xp="2117330" ironMan="0"/>
+    </Campaign>
+    <Campaign name="data/campaigns/campaign4.xml"/>
+    <Campaign name="data/campaigns/campaign2.xml" inProgress="1" ironMan="0"/>
+</Campaigns>

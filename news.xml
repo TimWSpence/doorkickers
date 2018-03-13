@@ -1,0 +1,33 @@
+<Root>
+	<Update LatestVersion="1.0.9" DisplayText="New update released! Please update!" URL="http://inthekillhouse.com"/>
+        <News DisplayText="New Door Kickers game - Action Squad!" URL="http://store.steampowered.com/app/686200/Door_Kickers_Action_Squad/"/>
+
+<!-- old news
+        <News DisplayText="Check out the mods in Steam Workshop" URL="https://steamcommunity.com/app/248610/workshop/"/>
+        <News DisplayText="Comic strip #4 (December)" URL="http://inthekillhouse.com/door-kickers-comic-4/"/>
+        <News DisplayText="Door Kickers 2 Announced!!!" URL="http://inthekillhouse.com/door-kickers-2-announced/"/>
+        <News DisplayText="Now also on Android! (with phablet support)" URL="http://inthekillhouse.com/you-can-now-kick-doors-on-android/"/>
+        <News DisplayText="End of 2015 and our plans for 2016" URL="http://inthekillhouse.com/end-of-year-three/"/>
+        <News DisplayText="Door Kickers is the Best Tactics game in 2014" URL="http://www.rockpapershotgun.com/2014/12/03/the-bestest-best-tactics-of-2014-door-kickers/"/>
+        <News DisplayText="Single or Multiplayer? Vote for our next game!" URL="http://strawpoll.me/5863848/r"/>
+        <News DisplayText="New update + iPad version released world-wide!" URL="http://inthekillhouse.com/door-kickers-update-ipad-version/"/>
+        <News DisplayText="Here's to 2015! What's next and retrospective..." URL="http://inthekillhouse.com/killhouse-games-end-of-year-two/"/>
+        <News DisplayText="See what's new in 1.0.3" URL="http://inthekillhouse.com/update-1-03-released-and-a-contest/"/>
+        <News DisplayText="Door Kickers is OUT!" URL="http://inthekillhouse.com/door-kickers-is-out/"/>
+        <News DisplayText="Steam Trading Cards are Live!" URL="http://inthekillhouse.com/steam-trading-cards-are-live/"/>
+        <News DisplayText="Alpha 8 is out!" URL="http://inthekillhouse.com/door-kickers-alpha-8/"/>
+        <News DisplayText="Spyder638 kicks custom mapping into high gear!" URL="http://inthekillhouse.com/forum/viewtopic.php?f=15&t=966"/>
+        <News DisplayText="Russian weapons pack by WardenofArcherus!" URL="http://inthekillhouse.com/forum/viewtopic.php?f=15&t=975"/>
+        <News DisplayText="Fancy a Finnish Rk 62? mvp7 got your back!" URL="http://inthekillhouse.com/forum/viewtopic.php?f=15&t=974"/>
+        <News DisplayText="G3s and SCARs in Trotskygrad's weapons pack" URL="http://inthekillhouse.com/forum/viewtopic.php?f=15&t=902"/>
+
+        <News DisplayText="Alpha7 is out! Read all about it..." URL="http://inthekillhouse.com/door-kickers-alpha-7/"/>
+        <News DisplayText="Tell your friends: DoorKickers 20%% off!" URL="http://store.steampowered.com/app/248610"/>
+        <News DisplayText="Vote Door Kickers for Indie of the year!" URL="http://www.indiedb.com/games/door-kickers"/>
+        <News DisplayText="Video review of Alpha6!" URL="http://www.youtube.com/watch?v=YGaa25UNzyE"/>
+        <News DisplayText="Tell your friends: DoorKickers 20%% off!" URL="http://store.steampowered.com/app/248610"/>
+        <News DisplayText="Vote on Features #6" URL="http://inthekillhouse.com/forum/viewtopic.php?f=11&t=878"/>
+        <News DisplayText="New weapons from modders!" URL="http://inthekillhouse.com/forum/viewforum.php?f=15"/>
+        <News DisplayText="Video walkthrough (all levels)" URL="http://www.youtube.com/watch?v=8jSIyB2nuPE&list=PLaa-nBTz2iQF1fIjGwNsVlForTC34ovqW"/>
+-->
+</Root>

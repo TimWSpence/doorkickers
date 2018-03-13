@@ -1,0 +1,22 @@
+<Doctrine version="3" availablePoints="0">
+    <ActiveAbility name="ShortRange_Handguns"/>
+    <ActiveAbility name="DoubleTap"/>
+    <ActiveAbility name="Precision"/>
+    <ActiveAbility name="Mozambique"/>
+    <ActiveAbility name="ShortRange_LongGuns"/>
+    <ActiveAbility name="MediumRange"/>
+    <ActiveAbility name="LongRange_LongGuns"/>
+    <ActiveAbility name="Transition"/>
+    <ActiveAbility name="BackBreaker"/>
+    <ActiveAbility name="QuickDraw"/>
+    <ActiveAbility name="RecoilControl"/>
+    <ActiveAbility name="LongRange_Handguns"/>
+    <ActiveAbility name="CARDoctrine_Handguns"/>
+    <ActiveAbility name="SilentKill"/>
+    <ActiveAbility name="NegateCover"/>
+    <ActiveAbility name="Barricade"/>
+    <ActiveAbility name="OneShotBreach"/>
+    <ActiveAbility name="FastPump"/>
+    <ActiveAbility name="EmergencyReload"/>
+    <ActiveAbility name="CARDoctrine_Shotguns"/>
+</Doctrine>

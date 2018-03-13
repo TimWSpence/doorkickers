@@ -1,0 +1,1143 @@
+<Root version="1" additionalStars="365">
+    <Map name="data/levels/levelkillhouselvl1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="10329"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="5"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="13"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="5"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="10680" XP="12380" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="12840" XP="14940" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="13" BulletsHit="11" Kills="5" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="5005" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="5"/>
+    </Map>
+    <Map name="data/levels/levelkillhouselvl2ch.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="7712"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="5"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="12"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="5"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="81190" XP="83020" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="663" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="76370" XP="78370" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="10" BulletsHit="6" Kills="4" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="874" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="5"/>
+    </Map>
+    <Map name="data/levels/levelkillhouse1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="4818"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="5"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="3160" XP="5290" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="3" BulletsHit="3" Kills="3" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="939" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="2" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="2140" XP="4140" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="2" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="1100" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="2" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="5"/>
+    </Map>
+    <Map name="data/levels/levelkillapart.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="16203"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="17"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="3840" XP="4740" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="13" BulletsHit="10" Kills="3" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="3" PathModifications="227" DistanceWalkedCM="3989" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="4960" XP="5960" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="4" BulletsHit="4" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="203" DistanceWalkedCM="5295" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/level1bedroomapart.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="14190"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="9"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="15230" XP="15930" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="3" PathModifications="158" DistanceWalkedCM="1749" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="16380" XP="17380" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="9" BulletsHit="8" Kills="4" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="124" DistanceWalkedCM="1847" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="2"/>
+    </Map>
+    <Map name="data/levels/level2bedroomapartch1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="22770"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="6"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="11"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="6"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="5690" XP="6890" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="6" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="79" DistanceWalkedCM="2934" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="7440" XP="8660" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="5" BulletsHit="5" Kills="2" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="6" PathModifications="203" DistanceWalkedCM="4809" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelkillhouselargech1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="88242"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="10"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="15"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="10"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="31250" XP="32550" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="6" BulletsHit="6" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="18" PathModifications="629" DistanceWalkedCM="11214" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="29320" XP="30520" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="9" BulletsHit="9" Kills="5" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="21" PathModifications="684" DistanceWalkedCM="11186" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelsmallgaragech.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="26367"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="7"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="14"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="7"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="15060" XP="16380" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="13" BulletsHit="11" Kills="5" KillsStunnedTarget="1" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="5" PathModifications="137" DistanceWalkedCM="2619" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="14230" XP="15230" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="1" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="4" PathModifications="123" DistanceWalkedCM="2358" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelbeachhouse.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="105435"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="27"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="140"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="27"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="32550" XP="33770" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="2" BulletsHit="2" Kills="2" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="16" PathModifications="724" DistanceWalkedCM="11308" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="30520" XP="31650" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="10" BulletsHit="8" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="3" PathModifications="84" DistanceWalkedCM="2363" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="14450" XP="15450" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="40" BulletsHit="24" Kills="5" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="241" DistanceWalkedCM="5903" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="12900" XP="14500" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="88" BulletsHit="49" Kills="10" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="9" PathModifications="320" DistanceWalkedCM="9528" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelapart4rooms3.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="77220"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="9"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="80"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="9"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="33770" XP="34520" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="16" BulletsHit="7" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="1" DoorDetonations="0" GrenadesUsed="0" Paths="10" PathModifications="381" DistanceWalkedCM="4945" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="31650" XP="33030" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="64" BulletsHit="50" Kills="8" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="11" PathModifications="425" DistanceWalkedCM="9347" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/level4bedroomduplexhouse.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="53625"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="11"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="112"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="11"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="37070" XP="38540" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="80" BulletsHit="47" Kills="7" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="8" PathModifications="189" DistanceWalkedCM="4703" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="35730" XP="36580" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="32" BulletsHit="18" Kills="3" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="1" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="54" DistanceWalkedCM="1381" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelkillhouselvl9hr.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="10824"/>
+            <HostagesCount value="1"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="13"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="1700" XP="2600" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="7" BulletsHit="5" Kills="3" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="62" DistanceWalkedCM="2799" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="2300" XP="3170" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="5" Kills="0" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="1" PathModifications="64" DistanceWalkedCM="2531" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/level3bedroomhousehr1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="53262"/>
+            <HostagesCount value="3"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="6"/>
+            <Arrests value="0"/>
+            <AlliesCount value="3"/>
+            <BulletsFired value="20"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="6"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="4740" XP="5540" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="11" BulletsHit="9" Kills="3" KillsStunnedTarget="0" Injuries="5" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="82" DistanceWalkedCM="2167" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="13360" XP="14160" Weapon0="-478975918" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="9" BulletsHit="6" Kills="3" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="135" DistanceWalkedCM="3712" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="12310" XP="12910" Weapon0="-478975918" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="4" PathModifications="152" DistanceWalkedCM="3185" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelhotelhr2.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="2"/>
+            <ElapsedTime value="23100"/>
+            <HostagesCount value="1"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="9"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="21"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="9"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="1" PreviousXP="17380" XP="18180" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="8" BulletsHit="6" Kills="3" KillsStunnedTarget="0" Injuries="6" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="12" DistanceWalkedCM="620" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="5540" XP="6140" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="7" PathModifications="248" DistanceWalkedCM="3231" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="15930" XP="16730" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="4" BulletsHit="4" Kills="1" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="266" DistanceWalkedCM="4456" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="5960" XP="6960" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="9" BulletsHit="7" Kills="5" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="7" PathModifications="211" DistanceWalkedCM="3975" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelkillhouselvl16bd.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="12969"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="6"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="13"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="6"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="2600" XP="4600" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="4" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="1728" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="2" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="3170" XP="5440" Weapon0="0" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="7" BulletsHit="7" Kills="2" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="2238" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="2" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="5"/>
+    </Map>
+    <Map name="data/levels/levelaircraft1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="16500"/>
+            <HostagesCount value="3"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="8"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="19"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="8"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="6140" XP="7750" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="13" BulletsHit="9" Kills="2" KillsStunnedTarget="2" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="3565" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="6960" XP="8160" Weapon0="-1704974519" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="60" DistanceWalkedCM="2403" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="18180" XP="19580" Weapon0="-1369057830" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="4" BulletsHit="3" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="783" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="16730" XP="18030" Weapon0="-1369057830" Weapon1="-1004281841" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="20" DistanceWalkedCM="2474" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="4"/>
+    </Map>
+    <Map name="data/levels/level2bedroomhouse.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="80619"/>
+            <HostagesCount value="2"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="6"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="13"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="6"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="18030" XP="19060" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="1" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="1" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="3" PathModifications="213" DistanceWalkedCM="3325" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="19580" XP="20850" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="12" BulletsHit="12" Kills="3" KillsStunnedTarget="1" Injuries="2" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="8" PathModifications="323" DistanceWalkedCM="5953" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelconsulatehr1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="23661"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="11"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="19"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="11"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="20850" XP="22250" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="8" BulletsHit="8" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="242" DistanceWalkedCM="2502" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="19060" XP="20460" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="11" BulletsHit="11" Kills="6" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="4" PathModifications="122" DistanceWalkedCM="1887" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelprivateclub.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="1"/>
+            <ElapsedTime value="109725"/>
+            <HostagesCount value="7"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="20"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="58"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="20"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="1" PreviousXP="22250" XP="23050" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="7" BulletsHit="7" Kills="3" KillsStunnedTarget="0" Injuries="4" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="864" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="7750" XP="8770" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="16" BulletsHit="15" Kills="5" KillsStunnedTarget="1" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="7" PathModifications="266" DistanceWalkedCM="9399" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="20460" XP="21460" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="23" BulletsHit="17" Kills="7" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="10" PathModifications="278" DistanceWalkedCM="8062" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="8160" XP="9060" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="12" BulletsHit="12" Kills="4" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="9" PathModifications="312" DistanceWalkedCM="10384" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelhotelhr1.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="1"/>
+            <ElapsedTime value="177408"/>
+            <HostagesCount value="4"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="16"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="27"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="16"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Bing Zhao" IsDead="1" PreviousXP="8770" XP="9370" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="4" BulletsHit="4" Kills="1" KillsStunnedTarget="0" Injuries="4" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="118" PathModifications="1046" DistanceWalkedCM="14470" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="23050" XP="24010" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="15" BulletsHit="11" Kills="3" KillsStunnedTarget="2" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="5" PathModifications="473" DistanceWalkedCM="7806" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="21460" XP="22460" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="7" BulletsHit="7" Kills="5" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="13" PathModifications="710" DistanceWalkedCM="12104" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="9060" XP="9760" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="1" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="231" DistanceWalkedCM="4748" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelDRhousecall.xml">
+        <Stats>
+            <Casualties value="3"/>
+            <Stars value="1"/>
+            <ElapsedTime value="169158"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="30"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="189"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="30"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Bing Zhao" IsDead="1" PreviousXP="9370" XP="10720" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="104" BulletsHit="51" Kills="10" KillsStunnedTarget="0" Injuries="4" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="1" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="300" DistanceWalkedCM="3709" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="1" PreviousXP="23690" XP="25290" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="18" BulletsHit="18" Kills="8" KillsStunnedTarget="1" Injuries="2" DoorManualBreaches="1" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="1" Paths="76" PathModifications="789" DistanceWalkedCM="10850" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="1" PreviousXP="25240" XP="26340" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="11" BulletsHit="11" Kills="6" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="13" PathModifications="634" DistanceWalkedCM="7711" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="10330" XP="11130" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="56" BulletsHit="35" Kills="5" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="13" PathModifications="549" DistanceWalkedCM="8982" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelsmallbank.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="95568"/>
+            <HostagesCount value="7"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="10"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="28"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="10"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="26590" XP="27290" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="3" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="10" PathModifications="273" DistanceWalkedCM="6843" WaitingForGoCodeMSec="4257" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="11380" XP="12330" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="7" BulletsHit="4" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="4" PathModifications="195" DistanceWalkedCM="3744" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="25620" XP="26540" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="12" BulletsHit="6" Kills="2" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="8" PathModifications="183" DistanceWalkedCM="4337" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="9620" XP="10540" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="6" BulletsHit="3" Kills="1" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="4" PathModifications="128" DistanceWalkedCM="3216" WaitingForGoCodeMSec="6105" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelsmallshop.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="27093"/>
+            <HostagesCount value="6"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="7"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="11"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="7"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="26540" XP="27740" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="44" DistanceWalkedCM="2204" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="12330" XP="13530" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="0" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="10540" XP="11890" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="16" DistanceWalkedCM="467" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="27290" XP="28890" Weapon0="868589782" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="9" BulletsHit="8" Kills="5" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="478" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="1" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="4"/>
+    </Map>
+    <Map name="data/levels/levelkillhouselargebd1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="94347"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="10"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="25"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="10"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="28890" XP="30220" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="19" BulletsHit="14" Kills="7" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="24" PathModifications="751" DistanceWalkedCM="13138" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="27740" XP="28720" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="4" Kills="3" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="15" PathModifications="391" DistanceWalkedCM="11313" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="1"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/level24_showroom.xml">
+        <Stats>
+            <Casualties value="2"/>
+            <Stars value="1"/>
+            <ElapsedTime value="232980"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="21"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="38"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="21"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Andre Andersen" IsDead="1" PreviousXP="13530" XP="14450" Weapon0="-1369057830" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="10" BulletsHit="5" Kills="4" KillsStunnedTarget="1" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="8" PathModifications="560" DistanceWalkedCM="12306" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="1" PreviousXP="11890" XP="12900" Weapon0="-1369057830" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="9" BulletsHit="6" Kills="6" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="12" PathModifications="765" DistanceWalkedCM="11773" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="1"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="28720" XP="29320" Weapon0="-1369057830" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="6" BulletsHit="4" Kills="3" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="3" PathModifications="128" DistanceWalkedCM="3183" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="30220" XP="31250" Weapon0="-1369057830" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="13" BulletsHit="10" Kills="7" KillsStunnedTarget="0" Injuries="4" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="14" PathModifications="907" DistanceWalkedCM="16417" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelshowroom.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="1"/>
+            <ElapsedTime value="217899"/>
+            <HostagesCount value="5"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="19"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="46"/>
+            <GrenadesUsed value="3"/>
+            <Hostiles value="19"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Bing Zhao" IsDead="1" PreviousXP="14500" XP="15300" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="7" BulletsHit="7" Kills="3" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="12" PathModifications="325" DistanceWalkedCM="6222" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="38540" XP="39440" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="11" BulletsHit="10" Kills="4" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="2" Paths="21" PathModifications="1192" DistanceWalkedCM="16448" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="36580" XP="37450" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="14" BulletsHit="13" Kills="4" KillsStunnedTarget="1" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="18" PathModifications="636" DistanceWalkedCM="13702" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="15450" XP="16570" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="14" BulletsHit="13" Kills="5" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="12" PathModifications="441" DistanceWalkedCM="12557" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelhousecall1CH.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="1"/>
+            <ElapsedTime value="131637"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="19"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="200"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="19"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="1" PreviousXP="38150" XP="39020" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="72" BulletsHit="35" Kills="4" KillsStunnedTarget="1" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="4" PathModifications="89" DistanceWalkedCM="6497" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="58480" XP="59180" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="32" BulletsHit="22" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="348" DistanceWalkedCM="8824" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="39940" XP="41040" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="56" BulletsHit="29" Kills="7" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="16" PathModifications="498" DistanceWalkedCM="16831" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="71840" XP="72720" Weapon0="-473582760" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="40" BulletsHit="22" Kills="4" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="8" PathModifications="367" DistanceWalkedCM="5646" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelmotel1.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="1"/>
+            <ElapsedTime value="219318"/>
+            <HostagesCount value="4"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="17"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="41"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="17"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="1" PreviousXP="41040" XP="42240" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="21" BulletsHit="20" Kills="8" KillsStunnedTarget="0" Injuries="4" DoorManualBreaches="0" DoorLockpicks="2" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="57" PathModifications="484" DistanceWalkedCM="13363" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="39020" XP="40400" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="20" BulletsHit="15" Kills="8" KillsStunnedTarget="1" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="2" Paths="48" PathModifications="964" DistanceWalkedCM="24446" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelembassy1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="203412"/>
+            <HostagesCount value="7"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="16"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="34"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="16"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="59180" XP="60460" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="8" BulletsHit="8" Kills="5" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="17" PathModifications="772" DistanceWalkedCM="16717" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="42240" XP="43210" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="11" BulletsHit="4" Kills="3" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="16" PathModifications="468" DistanceWalkedCM="12318" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="40400" XP="41230" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="8" BulletsHit="5" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="15" PathModifications="711" DistanceWalkedCM="18123" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="72720" XP="73520" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="7" BulletsHit="5" Kills="3" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="10" PathModifications="501" DistanceWalkedCM="13043" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelapart2rooms2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="81642"/>
+            <HostagesCount value="2"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="7"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="16"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="7"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="41230" XP="42080" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="4" BulletsHit="2" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="152" DistanceWalkedCM="3030" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="73520" XP="74320" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="8" BulletsHit="3" Kills="3" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="220" DistanceWalkedCM="6632" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="60460" XP="61060" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="12" PathModifications="314" DistanceWalkedCM="5834" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="43210" XP="43910" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="4" BulletsHit="3" Kills="2" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="4" PathModifications="133" DistanceWalkedCM="3261" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelplane.xml">
+        <Stats>
+            <Casualties value="2"/>
+            <Stars value="2"/>
+            <ElapsedTime value="33840"/>
+            <HostagesCount value="10"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="19"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="48"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="19"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="1" PreviousXP="69010" XP="70210" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="11" BulletsHit="11" Kills="5" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="99" DistanceWalkedCM="670" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="1" PreviousXP="73940" XP="74910" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="6" BulletsHit="6" Kills="1" KillsStunnedTarget="1" Injuries="5" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="0" PathModifications="0" DistanceWalkedCM="12" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="95590" XP="96690" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="5" BulletsHit="5" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="695" DistanceWalkedCM="1842" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="84590" XP="86100" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="26" BulletsHit="23" Kills="7" KillsStunnedTarget="2" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="3" PathModifications="795" DistanceWalkedCM="2397" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelmediumhouse2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="42032"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="16"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="31"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="16"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="74910" XP="76410" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="14" BulletsHit="14" Kills="7" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="758" DistanceWalkedCM="993" WaitingForGoCodeMSec="880" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="70210" XP="71210" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="2" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="934" DistanceWalkedCM="1322" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="86100" XP="87200" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="10" BulletsHit="8" Kills="5" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="357" DistanceWalkedCM="2499" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="96690" XP="97690" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="5" BulletsHit="3" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="321" DistanceWalkedCM="2817" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/level3bedroommansion.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="2"/>
+            <ElapsedTime value="29584"/>
+            <HostagesCount value="4"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="10"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="18"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="10"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Cedric Da Fonseca" IsDead="1" PreviousXP="97690" XP="98240" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="1" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="10" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="76410" XP="77570" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="10" BulletsHit="7" Kills="3" KillsStunnedTarget="2" Injuries="4" DoorManualBreaches="1" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="1" PathModifications="396" DistanceWalkedCM="1935" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="71210" XP="72320" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="8" BulletsHit="6" Kills="2" KillsStunnedTarget="2" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="1" PathModifications="116" DistanceWalkedCM="1252" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="87200" XP="87800" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="412" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelconsulatehr2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="30496"/>
+            <HostagesCount value="5"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="9"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="25"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="9"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="77570" XP="78690" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="11" BulletsHit="8" Kills="3" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="1" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="4" PathModifications="680" DistanceWalkedCM="1618" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="72320" XP="73520" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="14" BulletsHit="9" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="363" DistanceWalkedCM="1110" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelapart3rooms3.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="37920"/>
+            <HostagesCount value="2"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="14"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="37"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="14"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="87800" XP="88800" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="12" BulletsHit="5" Kills="4" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="386" DistanceWalkedCM="1608" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="98240" XP="99440" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="11" BulletsHit="5" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="8" PathModifications="1051" DistanceWalkedCM="1723" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="78690" XP="79490" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="3" Kills="2" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="1030" DistanceWalkedCM="1836" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="73520" XP="74270" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="8" BulletsHit="5" Kills="1" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="1" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="576" DistanceWalkedCM="1469" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelhousefour.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="67088"/>
+            <HostagesCount value="5"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="14"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="27"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="14"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="81010" XP="81810" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="1" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="7" PathModifications="2703" DistanceWalkedCM="3373" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="87700" XP="88900" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="16" BulletsHit="15" Kills="6" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="12" PathModifications="3646" DistanceWalkedCM="3526" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="99440" XP="100620" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="5" BulletsHit="5" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="6" PathModifications="2291" DistanceWalkedCM="3061" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="88800" XP="89920" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="5" BulletsHit="5" Kills="2" KillsStunnedTarget="1" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="2" PathModifications="152" DistanceWalkedCM="2569" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelshowroomas.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="2"/>
+            <ElapsedTime value="41440"/>
+            <HostagesCount value="4"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="4"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="7"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="4"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="1" PreviousXP="81810" XP="82710" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="4" BulletsHit="4" Kills="2" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="2436" DistanceWalkedCM="2574" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="88900" XP="89800" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="3" BulletsHit="3" Kills="2" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="5437" DistanceWalkedCM="5806" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelofficefive.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="1"/>
+            <ElapsedTime value="89344"/>
+            <HostagesCount value="4"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="13"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="26"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="13"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="1" PreviousXP="82710" XP="83510" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="17" BulletsHit="16" Kills="5" KillsStunnedTarget="0" Injuries="5" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="11" PathModifications="4156" DistanceWalkedCM="3608" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="100620" XP="101550" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="7" BulletsHit="6" Kills="4" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="1" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="13" PathModifications="5104" DistanceWalkedCM="4423" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="89920" XP="90620" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="1" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="8" PathModifications="5038" DistanceWalkedCM="4889" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="89800" XP="90500" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="1" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="10" PathModifications="3596" DistanceWalkedCM="4358" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelpolicestation.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="157392"/>
+            <HostagesCount value="1"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="16"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="31"/>
+            <GrenadesUsed value="4"/>
+            <Hostiles value="16"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="110030" XP="111130" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="12" BulletsHit="8" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="579" DistanceWalkedCM="2533" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="120480" XP="121520" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="7" BulletsHit="3" Kills="1" KillsStunnedTarget="2" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="2" Paths="32" PathModifications="3450" DistanceWalkedCM="6086" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="39310" XP="40920" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="9" BulletsHit="9" Kills="2" KillsStunnedTarget="3" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="2" Paths="23" PathModifications="3445" DistanceWalkedCM="8234" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="103890" XP="104890" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="3" BulletsHit="3" Kills="3" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="10" PathModifications="1624" DistanceWalkedCM="4422" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelhousecallTW.xml">
+        <Stats>
+            <Casualties value="2"/>
+            <Stars value="1"/>
+            <ElapsedTime value="145056"/>
+            <HostagesCount value="6"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="25"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="68"/>
+            <GrenadesUsed value="4"/>
+            <Hostiles value="25"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="121520" XP="122620" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="13" BulletsHit="11" Kills="6" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="2" Paths="14" PathModifications="647" DistanceWalkedCM="5431" WaitingForGoCodeMSec="1984" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="1" PreviousXP="40920" XP="41620" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="14" BulletsHit="6" Kills="4" KillsStunnedTarget="0" Injuries="5" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="18" PathModifications="2491" DistanceWalkedCM="5906" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="1" PreviousXP="111130" XP="112200" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="21" BulletsHit="9" Kills="6" KillsStunnedTarget="1" Injuries="5" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="12" PathModifications="1380" DistanceWalkedCM="8216" WaitingForGoCodeMSec="3808" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="104890" XP="106100" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="20" BulletsHit="9" Kills="5" KillsStunnedTarget="2" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="17" PathModifications="2266" DistanceWalkedCM="4852" WaitingForGoCodeMSec="1968" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/leveldruglab1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="124880"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="23"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="56"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="23"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="112200" XP="113100" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="8" BulletsHit="7" Kills="4" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="2023" DistanceWalkedCM="6166" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="106100" XP="107150" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="12" BulletsHit="7" Kills="4" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="13" PathModifications="2211" DistanceWalkedCM="5387" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="41620" XP="42720" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="13" BulletsHit="9" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="1879" DistanceWalkedCM="4824" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="121520" XP="123140" Weapon0="0" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="23" BulletsHit="17" Kills="9" KillsStunnedTarget="1" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="0" Paths="3" PathModifications="645" DistanceWalkedCM="2994" WaitingForGoCodeMSec="784" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelfarm3.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="107984"/>
+            <HostagesCount value="3"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="16"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="23"/>
+            <GrenadesUsed value="3"/>
+            <Hostiles value="16"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="126240" XP="127490" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="8" BulletsHit="8" Kills="3" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="12" PathModifications="2024" DistanceWalkedCM="4002" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="46750" XP="47880" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="6" Kills="3" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="12" PathModifications="3734" DistanceWalkedCM="6377" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="116000" XP="117130" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="2" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="10" PathModifications="2061" DistanceWalkedCM="3701" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="111250" XP="112560" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="7" BulletsHit="5" Kills="3" KillsStunnedTarget="2" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="10" PathModifications="2195" DistanceWalkedCM="2875" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelhousecall2CR.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="2"/>
+            <ElapsedTime value="76544"/>
+            <HostagesCount value="1"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="21"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="100"/>
+            <GrenadesUsed value="3"/>
+            <Hostiles value="21"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Bing Zhao" IsDead="1" PreviousXP="47880" XP="49010" Weapon0="-1704974519" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="16" BulletsHit="9" Kills="6" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="8" PathModifications="1249" DistanceWalkedCM="2010" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="117130" XP="118300" Weapon0="-1558408537" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="49" BulletsHit="37" Kills="5" KillsStunnedTarget="1" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="8" PathModifications="962" DistanceWalkedCM="2189" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="112560" XP="113460" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="15" BulletsHit="8" Kills="4" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="918" DistanceWalkedCM="2772" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="127490" XP="128560" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="20" BulletsHit="8" Kills="4" KillsStunnedTarget="1" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="7" PathModifications="1293" DistanceWalkedCM="2912" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelmediumhouse7.xml">
+        <Stats>
+            <Casualties value="1"/>
+            <Stars value="1"/>
+            <ElapsedTime value="47120"/>
+            <HostagesCount value="1"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="13"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="27"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="13"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="1" PreviousXP="113910" XP="114410" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="8" BulletsHit="4" Kills="2" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="3" PathModifications="472" DistanceWalkedCM="1739" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="128710" XP="129680" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="10" BulletsHit="8" Kills="4" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="9" PathModifications="1449" DistanceWalkedCM="3354" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="49160" XP="49730" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="4" BulletsHit="2" Kills="0" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="9" PathModifications="854" DistanceWalkedCM="3073" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="118750" XP="119550" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="1" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="5" BulletsHit="4" Kills="4" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="8" PathModifications="1378" DistanceWalkedCM="3584" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/levels/levelmediumhouse1.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="2"/>
+            <ElapsedTime value="62224"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="15"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="32"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="15"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="114410" XP="116010" Weapon0="1130474117" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="18" BulletsHit="14" Kills="11" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="257" DistanceWalkedCM="624" WaitingForGoCodeMSec="4016" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="49730" XP="50560" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="5" BulletsHit="4" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="8" PathModifications="1418" DistanceWalkedCM="3076" WaitingForGoCodeMSec="3440" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Cedric Da Fonseca" IsDead="0" PreviousXP="129680" XP="130310" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="2" BulletsHit="1" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="11" PathModifications="1401" DistanceWalkedCM="2521" WaitingForGoCodeMSec="6832" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="119550" XP="120250" Weapon0="0" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="1" MissionsWon3Star="0" BulletsFired="7" BulletsHit="4" Kills="2" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="8" PathModifications="1294" DistanceWalkedCM="3032" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/campaigns/campaign2/levelcampaign2l1.xml" campaign="data/campaigns/campaign2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="35632"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="2"/>
+            <Arrests value="0"/>
+            <AlliesCount value="2"/>
+            <BulletsFired value="3"/>
+            <GrenadesUsed value="1"/>
+            <Hostiles value="2"/>
+            <Evidence destroyed="0" retrieved="2"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="116420" XP="117120" Weapon0="0" Weapon1="-677048470" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="30" PathModifications="1980" DistanceWalkedCM="2554" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="64190" XP="65240" Weapon0="0" Weapon1="-677048470" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="3" BulletsHit="1" Kills="1" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="1" Paths="24" PathModifications="1492" DistanceWalkedCM="2034" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/campaigns/campaign2/levelcampaign2l2.xml" campaign="data/campaigns/campaign2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="71568"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="13"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="28"/>
+            <GrenadesUsed value="4"/>
+            <Hostiles value="13"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="117120" XP="118050" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="10" BulletsHit="4" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="5" PathModifications="1106" DistanceWalkedCM="3261" WaitingForGoCodeMSec="5936" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="65240" XP="66370" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="5" BulletsHit="4" Kills="4" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="4" PathModifications="1221" DistanceWalkedCM="3604" WaitingForGoCodeMSec="5104" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andrew Noland" IsDead="0" PreviousXP="21820" XP="23150" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="6" Kills="4" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="6" PathModifications="1078" DistanceWalkedCM="3405" WaitingForGoCodeMSec="3104" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="48900" XP="49730" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="7" BulletsHit="5" Kills="2" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="4" PathModifications="686" DistanceWalkedCM="2578" WaitingForGoCodeMSec="368" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/campaigns/campaign2/levelcampaign2l3.xml" campaign="data/campaigns/campaign2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="110576"/>
+            <HostagesCount value="9"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="12"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="21"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="14"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Andrew Noland" IsDead="0" PreviousXP="23150" XP="24050" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="8" BulletsHit="5" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="13" PathModifications="2193" DistanceWalkedCM="7108" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="66370" XP="67270" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="6" BulletsHit="3" Kills="3" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="1227" DistanceWalkedCM="4538" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="118050" XP="119450" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="5" BulletsHit="5" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="215" DistanceWalkedCM="1283" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="49730" XP="50730" Weapon0="-1923603731" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="2" Kills="2" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="0" PathModifications="0" DistanceWalkedCM="1161" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/campaigns/campaign2/levelcampaign2l4.xml" campaign="data/campaigns/campaign2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="96992"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="19"/>
+            <Arrests value="2"/>
+            <AlliesCount value="8"/>
+            <BulletsFired value="39"/>
+            <GrenadesUsed value="2"/>
+            <Hostiles value="21"/>
+            <Evidence destroyed="3" retrieved="6"/>
+            <Team>
+                <Soldier Name="Josey &apos;Josephine&apos; Bakes" IsDead="0" PreviousXP="11340" XP="12930" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="8" BulletsHit="8" Kills="3" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="1480" DistanceWalkedCM="2257" WaitingForGoCodeMSec="0" Arrests="1" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andrew Noland" IsDead="0" PreviousXP="24050" XP="25150" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="8" BulletsHit="6" Kills="5" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="1157" DistanceWalkedCM="3207" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="119450" XP="120500" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="2" BulletsHit="2" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="3" PathModifications="769" DistanceWalkedCM="3483" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bob Terhune" IsDead="0" PreviousXP="23370" XP="25070" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="10" BulletsHit="10" Kills="5" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="8" PathModifications="1307" DistanceWalkedCM="2292" WaitingForGoCodeMSec="0" Arrests="1" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Geoff Byers" IsDead="0" PreviousXP="15430" XP="16310" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="4" BulletsHit="2" Kills="2" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="11" PathModifications="1272" DistanceWalkedCM="2576" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Patrick Becker" IsDead="0" PreviousXP="129130" XP="130160" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="7" BulletsHit="7" Kills="2" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="1" Paths="6" PathModifications="1336" DistanceWalkedCM="3099" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="67270" XP="67870" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="4" PathModifications="845" DistanceWalkedCM="2861" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="50730" XP="51330" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="788" DistanceWalkedCM="2500" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/campaigns/campaign2/levelcampaign2l5.xml" campaign="data/campaigns/campaign2.xml">
+        <Stats>
+            <Casualties value="0"/>
+            <Stars value="3"/>
+            <ElapsedTime value="52992"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="14"/>
+            <Arrests value="2"/>
+            <AlliesCount value="8"/>
+            <BulletsFired value="36"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="16"/>
+            <Evidence destroyed="0" retrieved="1"/>
+            <Team>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="120500" XP="121600" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="8" BulletsHit="8" Kills="2" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="4" PathModifications="382" DistanceWalkedCM="3195" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bob Terhune" IsDead="0" PreviousXP="25070" XP="25970" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="9" BulletsHit="6" Kills="3" KillsStunnedTarget="0" Injuries="2" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="451" DistanceWalkedCM="1971" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andre Andersen" IsDead="0" PreviousXP="51330" XP="52580" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="6" PathModifications="1010" DistanceWalkedCM="3518" WaitingForGoCodeMSec="3136" Arrests="2" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Andrew Noland" IsDead="0" PreviousXP="25150" XP="25900" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="3" BulletsHit="2" Kills="1" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="3" PathModifications="544" DistanceWalkedCM="2064" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Serban Popovschi" IsDead="0" PreviousXP="129080" XP="130380" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="14" BulletsHit="8" Kills="7" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="5" PathModifications="570" DistanceWalkedCM="1816" WaitingForGoCodeMSec="2800" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Josey &apos;Josephine&apos; Bakes" IsDead="0" PreviousXP="12930" XP="13680" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="0" BulletsHit="0" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="3" PathModifications="740" DistanceWalkedCM="2238" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="67870" XP="68770" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="1" BulletsHit="1" Kills="0" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="456" DistanceWalkedCM="2124" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Geoff Byers" IsDead="0" PreviousXP="16310" XP="17210" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="1" BulletsFired="1" BulletsHit="1" Kills="1" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="274" DistanceWalkedCM="1172" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+    <Map name="data/campaigns/campaign2/levelcampaign2l6.xml" campaign="data/campaigns/campaign2.xml">
+        <Stats>
+            <Casualties value="2"/>
+            <Stars value="0"/>
+            <ElapsedTime value="23744"/>
+            <HostagesCount value="0"/>
+            <HostageCasualties value="0"/>
+            <KilledHostiles value="6"/>
+            <Arrests value="0"/>
+            <AlliesCount value="4"/>
+            <BulletsFired value="25"/>
+            <GrenadesUsed value="0"/>
+            <Hostiles value="9"/>
+            <Evidence destroyed="0" retrieved="0"/>
+            <Team>
+                <Soldier Name="Andre Andersen" IsDead="1" PreviousXP="52580" XP="52730" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="1" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="17" BulletsHit="13" Kills="1" KillsStunnedTarget="0" Injuries="3" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="2" PathModifications="477" DistanceWalkedCM="2098" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Bing Zhao" IsDead="0" PreviousXP="68770" XP="69220" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="1" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="2" BulletsHit="2" Kills="1" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="315" DistanceWalkedCM="2177" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="1" PerfectAccuracy="1" ChallengesCompleted="0" BombsDisarmed="0"/>
+                <Soldier Name="Evan Gnott" IsDead="0" PreviousXP="121600" XP="122050" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="1" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="0" BulletsFired="6" BulletsHit="4" Kills="4" KillsStunnedTarget="0" Injuries="1" DoorManualBreaches="0" DoorLockpicks="0" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="0" Paths="1" PathModifications="158" DistanceWalkedCM="1267" WaitingForGoCodeMSec="0" Arrests="0" CompletedHealthy="0" PerfectAccuracy="0" ChallengesCompleted="0" BombsDisarmed="0"/>
+            </Team>
+        </Stats>
+        <Challenges value="0"/>
+    </Map>
+</Root>

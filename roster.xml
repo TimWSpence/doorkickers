@@ -1,0 +1,1338 @@
+<Roster version="6" xp="720210">
+    <DefaultEquipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="XD4 Ported (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Ironman Shield (Level III)"/>
+        </Equipment>
+        <Equipment class="Assaulter">
+            <Item name="P90 PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Pointman">
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Stealth">
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Breacher">
+            <Item name="Joint Combat Shotgun"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <Equipment class="Shield">
+            <Item name="P226 Pistol (One Hand)"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Enforcer Shield (Level IIIA)"/>
+        </Equipment>
+    </DefaultEquipment>
+    <Trooper class="Stealth">
+        <Id name="Evan Gnott" nameAbbrev="E. Gnott" callsign="Cup" portrait="data/textures/gui/customization/portraits/default7.tga"/>
+        <Equipment>
+            <Item name="Honey Badger"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="46"/>
+            <InnateAbility name="Assault shooting" percent="13"/>
+            <InnateAbility name="Field skills" percent="12"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="121600" XP="122050" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="3" MissionsWon1Star="6" MissionsWon2Star="5" MissionsWon3Star="90" BulletsFired="522" BulletsHit="368" Kills="140" KillsStunnedTarget="15" Injuries="1" DoorManualBreaches="11" DoorLockpicks="5" DoorShotgunBreaches="1" DoorDetonations="4" GrenadesUsed="20" Paths="300" PathModifications="34129" DistanceWalkedCM="214835" WaitingForGoCodeMSec="6608" Arrests="1" CompletedHealthy="78" PerfectAccuracy="31" ChallengesCompleted="63" BombsDisarmed="1"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Bing Zhao" nameAbbrev="B. Zhao" portrait="data/textures/gui/customization/portraits/default4.tga"/>
+        <Equipment>
+            <Item name="Honey Badger"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="29"/>
+            <InnateAbility name="Assault shooting" percent="0"/>
+            <InnateAbility name="Field skills" percent="70"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="68770" XP="69220" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="3" MissionsWon1Star="8" MissionsWon2Star="10" MissionsWon3Star="53" BulletsFired="476" BulletsHit="324" Kills="144" KillsStunnedTarget="18" Injuries="0" DoorManualBreaches="1" DoorLockpicks="2" DoorShotgunBreaches="0" DoorDetonations="4" GrenadesUsed="20" Paths="602" PathModifications="43768" DistanceWalkedCM="198672" WaitingForGoCodeMSec="23716" Arrests="2" CompletedHealthy="43" PerfectAccuracy="20" ChallengesCompleted="6" BombsDisarmed="1"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Andre Andersen" nameAbbrev="A. Andersen" callsign="Monk" portrait="data/textures/gui/customization/portraits/default5.tga"/>
+        <Equipment>
+            <Item name="Honey Badger"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="16"/>
+            <InnateAbility name="Assault shooting" percent="78"/>
+            <InnateAbility name="Field skills" percent="3"/>
+        </InnateAbilities>
+        <Stats IsDead="1" PreviousXP="52580" XP="52730" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="4" MissionsWon1Star="6" MissionsWon2Star="4" MissionsWon3Star="41" BulletsFired="442" BulletsHit="308" Kills="130" KillsStunnedTarget="11" Injuries="3" DoorManualBreaches="0" DoorLockpicks="4" DoorShotgunBreaches="0" DoorDetonations="6" GrenadesUsed="7" Paths="284" PathModifications="17599" DistanceWalkedCM="136632" WaitingForGoCodeMSec="5664" Arrests="2" CompletedHealthy="36" PerfectAccuracy="13" ChallengesCompleted="4" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Andrew Noland" nameAbbrev="A. Noland" callsign="Spank" portrait="data/textures/gui/customization/portraits/default10.tga"/>
+        <Equipment>
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="25"/>
+            <InnateAbility name="Assault shooting" percent="52"/>
+            <InnateAbility name="Field skills" percent="4"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="25150" XP="25900" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="28" BulletsFired="124" BulletsHit="88" Kills="51" KillsStunnedTarget="3" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="1" GrenadesUsed="5" Paths="94" PathModifications="11238" DistanceWalkedCM="44571" WaitingForGoCodeMSec="4032" Arrests="0" CompletedHealthy="21" PerfectAccuracy="6" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Patrick Becker" nameAbbrev="P. Becker" callsign="Breacher" portrait="data/textures/gui/customization/portraits/pbecker.tga"/>
+        <Equipment>
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="29"/>
+            <InnateAbility name="Assault shooting" percent="12"/>
+            <InnateAbility name="Field skills" percent="53"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="129130" XP="130160" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="7" MissionsWon1Star="21" MissionsWon2Star="23" MissionsWon3Star="76" BulletsFired="1312" BulletsHit="926" Kills="379" KillsStunnedTarget="36" Injuries="0" DoorManualBreaches="5" DoorLockpicks="2" DoorShotgunBreaches="4" DoorDetonations="14" GrenadesUsed="34" Paths="887" PathModifications="60330" DistanceWalkedCM="471728" WaitingForGoCodeMSec="76000" Arrests="2" CompletedHealthy="61" PerfectAccuracy="41" ChallengesCompleted="12" BombsDisarmed="1"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Serban Popovschi" nameAbbrev="S. Popovschi" callsign="Tigger" portrait="data/textures/gui/customization/portraits/spopovschi.tga"/>
+        <Equipment>
+            <Item name="Honey Badger"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="33"/>
+            <InnateAbility name="Assault shooting" percent="5"/>
+            <InnateAbility name="Field skills" percent="47"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="129080" XP="130380" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="7" MissionsWon1Star="21" MissionsWon2Star="24" MissionsWon3Star="74" BulletsFired="1285" BulletsHit="894" Kills="362" KillsStunnedTarget="45" Injuries="0" DoorManualBreaches="6" DoorLockpicks="3" DoorShotgunBreaches="2" DoorDetonations="15" GrenadesUsed="46" Paths="845" PathModifications="71175" DistanceWalkedCM="475188" WaitingForGoCodeMSec="61647" Arrests="0" CompletedHealthy="61" PerfectAccuracy="41" ChallengesCompleted="15" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Cedric Da Fonseca" nameAbbrev="C. D. Fonseca" callsign="KweKwe" portrait="data/textures/gui/customization/portraits/default9.tga"/>
+        <Equipment>
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="9"/>
+            <InnateAbility name="Assault shooting" percent="85"/>
+            <InnateAbility name="Field skills" percent="4"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="132410" XP="132910" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="3" MissionsWon1Star="8" MissionsWon2Star="9" MissionsWon3Star="87" BulletsFired="916" BulletsHit="646" Kills="304" KillsStunnedTarget="15" Injuries="0" DoorManualBreaches="2" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="4" GrenadesUsed="13" Paths="280" PathModifications="35574" DistanceWalkedCM="350347" WaitingForGoCodeMSec="16956" Arrests="0" CompletedHealthy="68" PerfectAccuracy="10" ChallengesCompleted="63" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Geoff Byers" nameAbbrev="G. Byers" callsign="O&apos;Bollocks" portrait="data/textures/gui/customization/portraits/default13.tga"/>
+        <Equipment>
+            <Item name="P90-SD PDW"/>
+            <Item name="Mark 23-SD Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="15"/>
+            <InnateAbility name="Assault shooting" percent="22"/>
+            <InnateAbility name="Field skills" percent="63"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="16310" XP="17210" Weapon0="58888941" Weapon1="1722959988" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="22" BulletsFired="29" BulletsHit="18" Kills="14" KillsStunnedTarget="0" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="2" Paths="39" PathModifications="5974" DistanceWalkedCM="34271" WaitingForGoCodeMSec="17904" Arrests="0" CompletedHealthy="19" PerfectAccuracy="3" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Josey &apos;Josephine&apos; Bakes" nameAbbrev="J. Bakes" callsign="Canada" portrait="data/textures/gui/customization/portraits/jbakes.tga"/>
+        <Equipment>
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="22"/>
+            <InnateAbility name="Assault shooting" percent="3"/>
+            <InnateAbility name="Field skills" percent="74"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="12930" XP="13680" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="0" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="15" BulletsFired="90" BulletsHit="43" Kills="19" KillsStunnedTarget="1" Injuries="0" DoorManualBreaches="2" DoorLockpicks="2" DoorShotgunBreaches="0" DoorDetonations="0" GrenadesUsed="3" Paths="39" PathModifications="8450" DistanceWalkedCM="32313" WaitingForGoCodeMSec="1200" Arrests="1" CompletedHealthy="13" PerfectAccuracy="4" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+    <Trooper class="Stealth">
+        <Id name="Bob Terhune" nameAbbrev="B. Terhune" callsign="Trooper" portrait="data/textures/gui/customization/portraits/bterhune.tga"/>
+        <Equipment>
+            <Item name="P90-SD PDW"/>
+            <Item name="1911 Pistol"/>
+            <Item name="Assaulter Vest"/>
+            <Item name="Flashbang"/>
+            <Item name="Breaching Charge"/>
+            <Item name="Spy Camera"/>
+            <Item name="Lockpick"/>
+            <Item name="Crowbar"/>
+        </Equipment>
+        <InnateAbilities>
+            <InnateAbility name="Marksmanship" percent="30"/>
+            <InnateAbility name="Assault shooting" percent="25"/>
+            <InnateAbility name="Field skills" percent="17"/>
+        </InnateAbilities>
+        <Stats IsDead="0" PreviousXP="25070" XP="25970" Weapon0="58888941" Weapon1="1048546572" None="0" MissionsFailed="1" MissionsWon1Star="0" MissionsWon2Star="0" MissionsWon3Star="28" BulletsFired="123" BulletsHit="82" Kills="45" KillsStunnedTarget="4" Injuries="0" DoorManualBreaches="0" DoorLockpicks="1" DoorShotgunBreaches="0" DoorDetonations="2" GrenadesUsed="0" Paths="66" PathModifications="9436" DistanceWalkedCM="33736" WaitingForGoCodeMSec="0" Arrests="1" CompletedHealthy="25" PerfectAccuracy="6" ChallengesCompleted="0" BombsDisarmed="0"/>
+    </Trooper>
+</Roster>
