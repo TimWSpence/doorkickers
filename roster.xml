@@ -1200,7 +1200,7 @@
             <InnateAbility name="Assault shooting" percent="78"/>
             <InnateAbility name="Field skills" percent="3"/>
         </InnateAbilities>
-        <Stats IsDead="1" PreviousXP="52580" XP="52730" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="4" MissionsWon1Star="6" MissionsWon2Star="4" MissionsWon3Star="41" BulletsFired="442" BulletsHit="308" Kills="130" KillsStunnedTarget="11" Injuries="3" DoorManualBreaches="0" DoorLockpicks="4" DoorShotgunBreaches="0" DoorDetonations="6" GrenadesUsed="7" Paths="284" PathModifications="17599" DistanceWalkedCM="136632" WaitingForGoCodeMSec="5664" Arrests="2" CompletedHealthy="36" PerfectAccuracy="13" ChallengesCompleted="4" BombsDisarmed="0"/>
+        <Stats IsDead="0" PreviousXP="52580" XP="52730" Weapon0="-1923603731" Weapon1="1048546572" None="0" MissionsFailed="4" MissionsWon1Star="6" MissionsWon2Star="4" MissionsWon3Star="41" BulletsFired="442" BulletsHit="308" Kills="130" KillsStunnedTarget="11" Injuries="3" DoorManualBreaches="0" DoorLockpicks="4" DoorShotgunBreaches="0" DoorDetonations="6" GrenadesUsed="7" Paths="284" PathModifications="17599" DistanceWalkedCM="136632" WaitingForGoCodeMSec="5664" Arrests="2" CompletedHealthy="36" PerfectAccuracy="13" ChallengesCompleted="4" BombsDisarmed="0"/>
     </Trooper>
     <Trooper class="Stealth">
         <Id name="Andrew Noland" nameAbbrev="A. Noland" callsign="Spank" portrait="data/textures/gui/customization/portraits/default10.tga"/>

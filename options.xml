@@ -3,7 +3,7 @@
     <!--More or less recommended resolutions (16:10 format): 2560x1600, 1920x1200, 1680x1050, 1440x900, 1280x800-->
     <!--Note: The game will work in ANY resolution you set, but it won't look as intended.-->
     <!--mode=0 is windowed, mode=1 is fullscreen windowed, mode=2 is fulscreen-->
-    <Video width="1680" height="1050" mode="1" stretchToFit="0" maxFPS="60" vsync="false" monitor="0" gore="1" skipLogo="false"/>
+    <Video width="1920" height="1080" mode="1" stretchToFit="0" maxFPS="60" vsync="false" monitor="0" gore="1" skipLogo="false"/>
     <Sound masterVolume="1" musicVolume="0.75" gameVolume="1" ambientalVolume="1" dynamicReverb="1"/>
     <Game scrollSpeed="0.1" allowZoomPan="1" previewLOS="1" showSoundsRange="1" showLoadingScreens="1" coloredPaths="0" keepPrevPlan="1" invertHUD="0"/>
     <DevMode value="false" useRandomMapPool="false" fullDebugOutput="false"/>
